@@ -1,0 +1,211 @@
+﻿order_id;tanggal;nama_produk;kategori;kota;qty;harga;total;status;kasir;customer_id
+TX-0001;2025-03-23;Teh Botol;Minuman;Jakarta;2;5000;10000;completed;Citra;C1094
+TX-0002;2025-01-14;Sabun Mandi;Perawatan;Yogyakarta;5;12000;60000;completed;Andi;C1003
+TX-0003;2025-01-12;Air Mineral;Minuman;Bandung;5;4000;20000;completed;Eko;C1025
+TX-0004;2025-03-25;Shampoo;Perawatan;Yogyakarta;2;28000;56000;completed;Dewi;C1035
+TX-0005;2025-01-01;Deterjen;Perawatan;Bandung;3;22000;66000;completed;Dewi;C1027
+TX-0006;2025-02-13;Teh Botol;Minuman;Jakarta;1;5000;5000;completed;Dewi;C1044
+TX-0007;2025-03-19;minyak goreng;makanan;jakarta;5;18000;90000;Completed;dewi;C1048
+TX-0008;2025-01-11;Kecap Manis;Makanan;Surabaya;3;9000;27000;completed;Eko;C1090
+TX-0009;2025-01-09;Kopi Susu;Minuman;Bandung;1;25000;25000;cancelled;Citra;C1012
+TX-0010;2025-02-18;Minyak Goreng;Makanan;Medan;2;18000;36000;completed;Citra;C1026
+TX-0011;2025-03-27;Minyak Goreng;Makanan;Jakarta;6;18000;108000;completed;Eko;C1093
+TX-0012;2025-02-01;Jus Jeruk;Minuman;Medan;3;12000;36000;pending;Dewi;C1081
+TX-0013;2025-03-30;Kecap Manis;Makanan;Bandung;1;9000;9000;completed;Citra;C1004
+TX-0014;2025-02-10;Beras Premium;Makanan;Surabaya;2;55000;110000;cancelled;Andi;C1072
+TX-0015;2025-02-10;Air Mineral;Minuman;Medan;6;4000;24000;completed;Dewi;C1033
+TX-0016;2025-01-18;Air Mineral;Minuman;Yogyakarta;3;4000;12000;completed;Eko;C1054
+TX-0017;2025-03-16;Beras Premium;Makanan;Surabaya;2;55000;110000;completed;Budi;C1011
+TX-0018;2025-01-07;Tisu;Perawatan;Jakarta;6;8000;48000;completed;Budi;C1087
+TX-0019;2025-02-24;Pasta Gigi;Perawatan;Jakarta;4;15000;60000;completed;Dewi;C1059
+TX-0020;2025-03-09;Minyak Goreng;Makanan;Yogyakarta;6;18000;108000;completed;Andi;C1087
+TX-0021;2025-03-10;Deterjen;Perawatan;Surabaya;1;22000;22000;completed;Citra;C1020
+TX-0022;2025-02-28;Kopi Susu;Minuman;Surabaya;2;25000;50000;completed;Eko;C1013
+TX-0023;2025-03-22;minyak goreng;makanan;yogyakarta;2;18000;36000;Completed;eko;C1097
+TX-0024;2025-01-21;Kecap Manis;Makanan;Yogyakarta;5;9000;45000;completed;Andi;C1002
+TX-0025;2025-01-15;Gula Pasir;Makanan;Surabaya;1;14000;14000;completed;Budi;C1072
+TX-0026;2025-01-11;Teh Botol;Minuman;Medan;5;5000;25000;completed;Andi;C1016
+TX-0027;2025-03-26;Mie Instan;Makanan;Yogyakarta;3;3500;10500;completed;Budi;C1077
+TX-0028;2025-02-24;Air Mineral;Minuman;Yogyakarta;6;4000;24000;completed;Budi;C1085
+TX-0029;2025-03-25;Gula Pasir;Makanan;Medan;4;14000;56000;completed;Eko;C1028
+TX-0030;2025-01-09;Gula Pasir;Makanan;Jakarta;5;14000;70000;completed;Eko;C1028
+TX-0031;2025-01-01;Teh Botol;Minuman;Jakarta;1;5000;5000;cancelled;Budi;C1042
+TX-0032;2025-01-10;Kecap Manis;Makanan;Bandung;6;9000;54000;completed;Citra;C1069
+TX-0033;2025-01-17;Shampoo;Perawatan;Yogyakarta;4;28000;112000;completed;Eko;C1060
+TX-0034;2025-02-22;Air Mineral;Minuman;Jakarta;6;4000;24000;completed;Andi;C1054
+TX-0035;2025-02-22;Mie Instan;Makanan;Jakarta;1;3500;3500;completed;Andi;C1043
+TX-0036;2025-01-14;Air Mineral;Minuman;Bandung;5;4000;20000;completed;Budi;C1054
+TX-0037;2025-01-24;Minyak Goreng;Makanan;Medan;1;18000;18000;completed;Budi;C1070
+TX-0038;2025-01-13;Kopi Susu;Minuman;Yogyakarta;1;25000;25000;pending;Andi;C1030
+TX-0039;2025-01-22;Beras Premium;Makanan;Medan;2;55000;110000;cancelled;Dewi;C1007
+TX-0040;2025-01-22;Beras Premium;Makanan;Jakarta;3;55000;165000;pending;Dewi;C1058
+TX-0041;2025-02-06;Beras Premium;Makanan;Yogyakarta;2;55000;110000;completed;Dewi;C1027
+TX-0042;2025-01-08;Pasta Gigi;Perawatan;Yogyakarta;6;15000;90000;completed;Andi;C1006
+TX-0043;2025-03-16;Mie Instan;Makanan;Yogyakarta;2;3500;7000;completed;Eko;C1065
+TX-0044;2025-01-11;Tisu;Perawatan;Bandung;5;8000;40000;completed;Andi;C1030
+TX-0045;2025-02-21;teh botol;minuman;yogyakarta;5;5000;25000;Completed;budi;C1079
+TX-0046;2025-01-11;Beras Premium;Makanan;Yogyakarta;5;55000;275000;completed;Eko;C1033
+TX-0047;2025-01-27;Sabun Mandi;Perawatan;Surabaya;3;12000;36000;completed;Budi;C1085
+TX-0048;2025-03-24;Minyak Goreng;Makanan;Medan;1;18000;18000;completed;Citra;C1079
+TX-0049;2025-03-14;Teh Botol;Minuman;Jakarta;2;5000;10000;completed;Eko;C1016
+TX-0050;2025-02-14;Teh Botol;Minuman;Bandung;3;5000;15000;completed;Citra;C1069
+TX-0051;2025-02-08;Pasta Gigi;Perawatan;Yogyakarta;6;15000;90000;cancelled;Andi;C1038
+TX-0052;2025-03-26;Teh Botol;Minuman;Bandung;1;5000;5000;cancelled;Citra;C1095
+TX-0053;2025-03-12;Jus Jeruk;Minuman;Surabaya;5;12000;60000;completed;Citra;C1043
+TX-0054;2025-01-27;Sabun Mandi;Perawatan;Surabaya;4;12000;48000;completed;Eko;C1006
+TX-0055;2025-01-12;Sabun Mandi;Perawatan;Medan;1;12000;12000;completed;Citra;C1098
+TX-0056;2025-01-17;Sabun Mandi;Perawatan;Surabaya;6;12000;72000;completed;Budi;C1090
+TX-0057;2025-02-24;Kecap Manis;Makanan;Jakarta;1;9000;9000;pending;Andi;C1088
+TX-0058;2025-01-20;Kecap Manis;Makanan;Jakarta;5;9000;45000;completed;Citra;C1055
+TX-0059;2025-01-17;Kopi Susu;Minuman;Surabaya;1;25000;25000;cancelled;Citra;C1026
+TX-0060;2025-03-29;Air Mineral;Minuman;Jakarta;5;4000;20000;cancelled;Citra;C1052
+TX-0061;2025-03-21;Shampoo;Perawatan;Bandung;2;28000;56000;pending;Budi;C1022
+TX-0062;2025-02-22;Kopi Susu;Minuman;Bandung;4;25000;100000;cancelled;Citra;C1094
+TX-0063;2025-02-01;Minyak Goreng;Makanan;Bandung;4;18000;72000;cancelled;Andi;C1060
+TX-0064;2025-01-29;Air Mineral;Minuman;Medan;3;4000;12000;cancelled;Citra;C1029
+TX-0065;2025-01-29;Kopi Susu;Minuman;Bandung;3;25000;75000;completed;Dewi;C1008
+TX-0066;2025-02-05;Gula Pasir;Makanan;Yogyakarta;6;14000;84000;pending;Dewi;C1068
+TX-0067;2025-02-12;kopi susu;minuman;jakarta;2;25000;50000;Completed;citra;C1033
+TX-0068;2025-01-05;Teh Botol;Minuman;Yogyakarta;3;5000;15000;completed;Dewi;C1040
+TX-0069;2025-02-25;Pasta Gigi;Perawatan;Yogyakarta;4;15000;60000;cancelled;Andi;C1024
+TX-0070;2025-02-02;Kopi Susu;Minuman;Medan;5;25000;125000;pending;Andi;C1068
+TX-0071;2025-03-29;Shampoo;Perawatan;Bandung;4;28000;112000;completed;Citra;C1085
+TX-0072;2025-02-12;Pasta Gigi;Perawatan;Surabaya;6;15000;90000;cancelled;Andi;C1064
+TX-0073;2025-02-09;Sabun Mandi;Perawatan;Medan;4;12000;48000;completed;Citra;C1070
+TX-0074;2025-01-17;Air Mineral;Minuman;Medan;6;4000;24000;completed;Dewi;C1022
+TX-0075;2025-03-20;Pasta Gigi;Perawatan;Surabaya;5;15000;75000;cancelled;Dewi;C1038
+TX-0076;2025-02-06;Air Mineral;Minuman;Medan;5;4000;20000;completed;Eko;C1059
+TX-0077;2025-02-26;Mie Instan;Makanan;Bandung;4;3500;14000;completed;Eko;C1094
+TX-0078;2025-01-22;Sabun Mandi;Perawatan;Jakarta;5;12000;60000;completed;Citra;C1079
+TX-0079;2025-02-12;Teh Botol;Minuman;Bandung;2;5000;10000;cancelled;Citra;C1018
+TX-0080;2025-01-04;Kopi Susu;Minuman;Bandung;5;25000;125000;cancelled;Dewi;C1009
+TX-0081;2025-02-28;Beras Premium;Makanan;Yogyakarta;6;55000;330000;completed;Budi;C1063
+TX-0082;2025-02-21;Air Mineral;Minuman;Bandung;1;4000;4000;completed;Andi;C1028
+TX-0083;2025-01-23;Deterjen;Perawatan;Yogyakarta;1;22000;22000;completed;Dewi;C1015
+TX-0084;2025-02-28;Jus Jeruk;Minuman;Medan;5;12000;60000;completed;Eko;C1096
+TX-0085;2025-02-26;Pasta Gigi;Perawatan;Yogyakarta;5;15000;75000;completed;Dewi;C1020
+TX-0086;2025-03-02;Mie Instan;Makanan;Surabaya;6;3500;21000;completed;Budi;C1099
+TX-0087;2025-03-08;Mie Instan;Makanan;Bandung;4;3500;14000;completed;Citra;C1036
+TX-0088;2025-01-31;Minyak Goreng;Makanan;Surabaya;5;18000;90000;completed;Citra;C1019
+TX-0089;2025-01-30;beras premium;makanan;bandung;1;55000;55000;Completed;budi;C1042
+TX-0090;2025-03-11;Mie Instan;Makanan;Medan;2;3500;7000;cancelled;Andi;C1049
+TX-0091;2025-03-16;Shampoo;Perawatan;Jakarta;4;28000;112000;completed;Eko;C1045
+TX-0092;2025-02-08;Deterjen;Perawatan;Medan;5;22000;110000;completed;Dewi;C1069
+TX-0093;2025-03-19;Air Mineral;Minuman;Medan;3;4000;12000;completed;Budi;C1003
+TX-0094;2025-02-19;Gula Pasir;Makanan;Medan;4;14000;56000;cancelled;Budi;C1079
+TX-0095;2025-03-10;Kopi Susu;Minuman;Medan;5;25000;125000;completed;Eko;C1010
+TX-0096;2025-03-24;Beras Premium;Makanan;Bandung;2;55000;110000;completed;Dewi;C1048
+TX-0097;2025-02-11;Air Mineral;Minuman;Medan;3;4000;12000;completed;Citra;C1048
+TX-0098;2025-02-05;Deterjen;Perawatan;Medan;1;22000;22000;completed;Citra;C1095
+TX-0099;2025-03-11;Kopi Susu;Minuman;Surabaya;6;25000;150000;completed;Budi;C1083
+TX-0100;2025-01-06;Deterjen;Perawatan;Jakarta;2;22000;44000;cancelled;Budi;C1079
+TX-0101;2025-01-20;Air Mineral;Minuman;Bandung;6;4000;24000;completed;Dewi;C1027
+TX-0102;2025-03-01;Shampoo;Perawatan;Surabaya;2;28000;56000;completed;Citra;C1095
+TX-0103;2025-01-15;Deterjen;Perawatan;Bandung;1;22000;22000;completed;Citra;C1039
+TX-0104;2025-03-15;Sabun Mandi;Perawatan;Medan;6;12000;72000;completed;Dewi;C1075
+TX-0105;2025-03-30;Tisu;Perawatan;Bandung;6;8000;48000;completed;Andi;C1087
+TX-0106;2025-03-18;Deterjen;Perawatan;Jakarta;1;22000;22000;completed;Eko;C1054
+TX-0107;2025-03-26;Gula Pasir;Makanan;Jakarta;6;14000;84000;completed;Eko;C1053
+TX-0108;2025-03-04;Teh Botol;Minuman;Medan;6;5000;30000;cancelled;Citra;C1058
+TX-0109;2025-01-20;Beras Premium;Makanan;Bandung;6;55000;330000;completed;Eko;C1068
+TX-0110;2025-03-03;Mie Instan;Makanan;Medan;3;3500;10500;completed;Eko;C1031
+TX-0111;2025-01-12;Minyak Goreng;Makanan;Medan;4;18000;72000;completed;Budi;C1085
+TX-0112;2025-02-18;gula pasir;makanan;jakarta;3;14000;42000;Completed;dewi;C1027
+TX-0113;2025-02-15;Deterjen;Perawatan;Surabaya;3;22000;66000;cancelled;Citra;C1089
+TX-0114;2025-02-05;Kecap Manis;Makanan;Jakarta;2;9000;18000;completed;Eko;C1092
+TX-0115;2025-02-22;Mie Instan;Makanan;Yogyakarta;6;3500;21000;completed;Budi;C1091
+TX-0116;2025-03-04;Mie Instan;Makanan;Jakarta;3;3500;10500;completed;Andi;C1088
+TX-0117;2025-02-01;Minyak Goreng;Makanan;Yogyakarta;4;18000;72000;completed;Citra;C1044
+TX-0118;2025-02-24;Shampoo;Perawatan;Yogyakarta;3;28000;84000;completed;Citra;C1034
+TX-0119;2025-02-09;Minyak Goreng;Makanan;Bandung;6;18000;108000;completed;Andi;C1015
+TX-0120;2025-03-10;Deterjen;Perawatan;Bandung;2;22000;44000;completed;Budi;C1035
+TX-0121;2025-03-17;Deterjen;Perawatan;Yogyakarta;3;22000;66000;pending;Eko;C1024
+TX-0122;2025-02-07;Air Mineral;Minuman;Surabaya;3;4000;12000;completed;Budi;C1068
+TX-0123;2025-01-17;Minyak Goreng;Makanan;Jakarta;5;18000;90000;completed;Andi;C1016
+TX-0124;2025-03-23;Tisu;Perawatan;Medan;1;8000;8000;completed;Andi;C1060
+TX-0125;2025-03-03;Mie Instan;Makanan;Surabaya;1;3500;3500;completed;Budi;C1061
+TX-0126;2025-01-15;Tisu;Perawatan;Jakarta;4;8000;32000;completed;Dewi;C1080
+TX-0127;2025-03-29;Kopi Susu;Minuman;Bandung;5;25000;125000;pending;Budi;C1010
+TX-0128;2025-02-01;Teh Botol;Minuman;Yogyakarta;5;5000;25000;completed;Dewi;C1079
+TX-0129;2025-01-29;Deterjen;Perawatan;Yogyakarta;4;22000;88000;cancelled;Dewi;C1038
+TX-0130;2025-03-17;Beras Premium;Makanan;Surabaya;5;55000;275000;completed;Eko;C1094
+TX-0131;2025-01-13;Deterjen;Perawatan;Bandung;3;22000;66000;completed;Budi;C1020
+TX-0132;2025-01-31;Jus Jeruk;Minuman;Yogyakarta;2;12000;24000;completed;Andi;C1057
+TX-0133;2025-03-30;Pasta Gigi;Perawatan;Medan;1;15000;15000;completed;Citra;C1090
+TX-0134;2025-02-06;shampoo;perawatan;medan;6;28000;168000;Completed;andi;C1033
+TX-0135;2025-03-22;Pasta Gigi;Perawatan;Bandung;1;15000;15000;completed;Dewi;C1082
+TX-0136;2025-01-20;Minyak Goreng;Makanan;Bandung;1;18000;18000;completed;Andi;C1039
+TX-0137;2025-03-18;Shampoo;Perawatan;Yogyakarta;4;28000;112000;completed;Citra;C1088
+TX-0138;2025-02-08;Shampoo;Perawatan;Medan;5;28000;140000;completed;Citra;C1056
+TX-0139;2025-01-11;Pasta Gigi;Perawatan;Jakarta;6;15000;90000;completed;Dewi;C1032
+TX-0140;2025-01-04;Teh Botol;Minuman;Bandung;5;5000;25000;pending;Eko;C1097
+TX-0141;2025-03-28;Tisu;Perawatan;Surabaya;1;8000;8000;completed;Eko;C1022
+TX-0142;2025-03-02;Kecap Manis;Makanan;Medan;2;9000;18000;pending;Citra;C1055
+TX-0143;2025-03-23;Tisu;Perawatan;Medan;4;8000;32000;completed;Andi;C1042
+TX-0144;2025-02-11;Sabun Mandi;Perawatan;Jakarta;3;12000;36000;completed;Budi;C1063
+TX-0145;2025-02-06;Sabun Mandi;Perawatan;Medan;1;12000;12000;completed;Eko;C1040
+TX-0146;2025-02-02;Gula Pasir;Makanan;Jakarta;5;14000;70000;cancelled;Dewi;C1000
+TX-0147;2025-03-26;Tisu;Perawatan;Yogyakarta;4;8000;32000;completed;Dewi;C1066
+TX-0148;2025-02-16;Pasta Gigi;Perawatan;Medan;1;15000;15000;completed;Dewi;C1070
+TX-0149;2025-01-17;Minyak Goreng;Makanan;Medan;1;18000;18000;completed;Dewi;C1080
+TX-0150;2025-03-19;Deterjen;Perawatan;Bandung;3;22000;66000;completed;Budi;C1070
+TX-0151;2025-02-22;Teh Botol;Minuman;Bandung;4;5000;20000;pending;Andi;C1082
+TX-0152;2025-01-20;Mie Instan;Makanan;Surabaya;6;3500;21000;completed;Eko;C1061
+TX-0153;2025-03-02;Air Mineral;Minuman;Medan;2;4000;8000;completed;Eko;C1076
+TX-0154;2025-03-07;Shampoo;Perawatan;Bandung;3;28000;84000;completed;Andi;C1053
+TX-0155;2025-02-13;Deterjen;Perawatan;Yogyakarta;1;22000;22000;completed;Citra;C1038
+TX-0156;2025-03-17;pasta gigi;perawatan;medan;4;15000;60000;Completed;budi;C1044
+TX-0157;2025-02-12;Kecap Manis;Makanan;Yogyakarta;4;9000;36000;pending;Dewi;C1024
+TX-0158;2025-03-31;Air Mineral;Minuman;Yogyakarta;2;4000;8000;cancelled;Dewi;C1052
+TX-0159;2025-01-06;Gula Pasir;Makanan;Medan;4;14000;56000;pending;Dewi;C1083
+TX-0160;2025-01-20;Mie Instan;Makanan;Jakarta;5;3500;17500;pending;Budi;C1042
+TX-0161;2025-01-13;Tisu;Perawatan;Medan;5;8000;40000;cancelled;Andi;C1001
+TX-0162;2025-01-19;Beras Premium;Makanan;Bandung;4;55000;220000;completed;Andi;C1033
+TX-0163;2025-02-13;Pasta Gigi;Perawatan;Medan;3;15000;45000;cancelled;Andi;C1068
+TX-0164;2025-02-18;Gula Pasir;Makanan;Medan;1;14000;14000;completed;Eko;C1030
+TX-0165;2025-03-22;Sabun Mandi;Perawatan;Surabaya;6;12000;72000;completed;Budi;C1012
+TX-0166;2025-03-23;Shampoo;Perawatan;Jakarta;2;28000;56000;completed;Dewi;C1003
+TX-0167;2025-01-06;Gula Pasir;Makanan;Jakarta;3;14000;42000;completed;Citra;C1018
+TX-0168;2025-02-01;Kecap Manis;Makanan;Medan;6;9000;54000;completed;Eko;C1021
+TX-0169;2025-01-23;Teh Botol;Minuman;Yogyakarta;5;5000;25000;completed;Dewi;C1063
+TX-0170;2025-03-16;Jus Jeruk;Minuman;Bandung;6;12000;72000;completed;Dewi;C1032
+TX-0171;2025-03-27;Kopi Susu;Minuman;Medan;6;25000;150000;completed;Citra;C1009
+TX-0172;2025-02-26;Gula Pasir;Makanan;Yogyakarta;6;14000;84000;pending;Citra;C1088
+TX-0173;2025-02-02;Mie Instan;Makanan;Surabaya;4;3500;14000;cancelled;Budi;C1013
+TX-0174;2025-01-31;Beras Premium;Makanan;Yogyakarta;5;55000;275000;completed;Citra;C1089
+TX-0175;2025-02-07;Kopi Susu;Minuman;Medan;1;25000;25000;completed;Citra;C1087
+TX-0176;2025-01-07;Pasta Gigi;Perawatan;Medan;2;15000;30000;completed;Citra;C1045
+TX-0177;2025-01-29;Sabun Mandi;Perawatan;Bandung;3;12000;36000;completed;Eko;C1092
+TX-0178;2025-03-26;sabun mandi;perawatan;bandung;6;12000;72000;Completed;andi;C1039
+TX-0179;2025-02-26;Kopi Susu;Minuman;Yogyakarta;6;25000;150000;completed;Citra;C1037
+TX-0180;2025-02-11;Shampoo;Perawatan;Medan;2;28000;56000;completed;Budi;C1069
+TX-0181;2025-02-16;Kecap Manis;Makanan;Yogyakarta;2;9000;18000;completed;Citra;C1061
+TX-0182;2025-02-07;Shampoo;Perawatan;Surabaya;4;28000;112000;pending;Andi;C1018
+TX-0183;2025-01-29;Tisu;Perawatan;Medan;3;8000;24000;completed;Eko;C1050
+TX-0184;2025-01-02;Minyak Goreng;Makanan;Yogyakarta;4;18000;72000;completed;Andi;C1095
+TX-0185;2025-03-28;Minyak Goreng;Makanan;Yogyakarta;6;18000;108000;pending;Dewi;C1013
+TX-0186;2025-03-28;Air Mineral;Minuman;Medan;5;4000;20000;cancelled;Andi;C1071
+TX-0187;2025-02-11;Pasta Gigi;Perawatan;Bandung;6;15000;90000;cancelled;Andi;C1089
+TX-0188;2025-02-08;Sabun Mandi;Perawatan;Medan;2;12000;24000;completed;Andi;C1004
+TX-0189;2025-02-08;Mie Instan;Makanan;Jakarta;2;3500;7000;cancelled;Andi;C1017
+TX-0190;2025-02-19;Mie Instan;Makanan;Surabaya;4;3500;14000;completed;Eko;C1093
+TX-0191;2025-01-20;Beras Premium;Makanan;Jakarta;5;55000;275000;completed;Dewi;C1035
+TX-0192;2025-01-05;Shampoo;Perawatan;Surabaya;4;28000;112000;completed;Budi;C1030
+TX-0193;2025-02-16;Teh Botol;Minuman;Surabaya;6;5000;30000;completed;Eko;C1050
+TX-0194;2025-02-05;Air Mineral;Minuman;Jakarta;1;4000;4000;completed;Dewi;C1082
+TX-0195;2025-03-23;Pasta Gigi;Perawatan;Jakarta;3;15000;45000;completed;Andi;C1016
+TX-0196;2025-03-14;Air Mineral;Minuman;Jakarta;2;4000;8000;completed;Eko;C1029
+TX-0197;2025-02-12;Deterjen;Perawatan;Bandung;1;22000;22000;completed;Eko;C1018
+TX-0198;2025-01-17;Kecap Manis;Makanan;Surabaya;1;9000;9000;completed;Budi;C1003
+TX-0199;2025-01-17;kopi susu;minuman;surabaya;5;25000;125000;Completed;budi;C1022
+TX-0200;2025-02-03;Kopi Susu;Minuman;Bandung;5;25000;125000;completed;Dewi;C1008
+TX-0201;2025-03-02;Mie Instan;Makanan;Surabaya;5;3500;17500;completed;Eko;C1064
+TX-0202;2025-01-29;Pasta Gigi;Perawatan;Jakarta;3;15000;45000;completed;Eko;C1003
+TX-0203;2025-01-08;Mie Instan;Makanan;Medan;6;3500;21000;completed;Dewi;C1091
+TX-0204;2025-02-26;Teh Botol;Minuman;Jakarta;5;5000;25000;completed;Citra;C1016
+TX-0205;2025-02-05;Pasta Gigi;Perawatan;Yogyakarta;6;15000;90000;completed;Eko;C1076
+TX-0206;2025-03-09;Minyak Goreng;Makanan;Medan;5;18000;90000;completed;Eko;C1089
+TX-0207;2025-01-15;Tisu;Perawatan;Yogyakarta;4;8000;32000;completed;Budi;C1029
+TX-0208;2025-02-22;Gula Pasir;Makanan;Medan;4;14000;56000;completed;Dewi;C1040
+TX-0209;2025-02-24;Gula Pasir;Makanan;Surabaya;2;14000;28000;completed;Citra;C1060
+TX-0210;2025-01-09;Teh Botol;Minuman;Jakarta;4;5000;20000;completed;Andi;C1094
